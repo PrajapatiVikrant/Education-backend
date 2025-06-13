@@ -12,8 +12,8 @@ const app = express();
 app.use(cors());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
-const key_id = "rzp_test_j9y9J7mpIATZVk";
-const key_secret = "E0qcrngMstXWyv21bU4ANfW5";
+const key_id = "rzp_test_9Xl0nm4yttKDhb";
+const key_secret = "oSUB4teLKE9qo4qiVDqmwSV1";
 const secretkey = "Coding-learner9580";
 const api = {
   //sign up api
